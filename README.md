@@ -1,4 +1,4 @@
 # Java-Lab1
-Program counts an age by an input date.
+The program counts age by an input date.
 
-Input date has to look like "29 September 1996"
+An input date should look like "29 September 1996"
